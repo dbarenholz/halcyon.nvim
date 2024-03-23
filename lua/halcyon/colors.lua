@@ -33,7 +33,7 @@ M.text = {}
 local text = M.text
 
 text.normal    = halcyon.base_grey_light;
-text.muted     = "#8695b799";
+text.muted     = "#8695b7";
 text.error     = halcyon.palette_salmon;
 text.warning   = halcyon.palette_orange;
 text.success   = halcyon.palette_lime;
