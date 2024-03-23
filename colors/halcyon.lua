@@ -1,1 +1,2 @@
-require("halcyon").colorscheme()
+package.loaded['halcyon'] = nil
+require('halcyon').colorscheme()
