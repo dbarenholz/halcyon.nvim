@@ -4,7 +4,7 @@ local colors = require("halcyon.colors")
 local M = {}
 
 --- Load the theme.
-function M.load()
+function M.colorscheme()
     vim.o.termguicolors = true
     vim.g.colors_name   = "halcyon"
     vim.o.background    = "dark"
